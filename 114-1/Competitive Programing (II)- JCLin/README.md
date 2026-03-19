@@ -84,22 +84,22 @@
 
 建議在閱讀對應簡報後，至 [VJudge](https://vjudge.net) 完成下列練習題。
 
-| 週次 | 練習題 A | 練習題 B | 練習題 C | 練習題 D | 對應主題 | VJudge |
-|:---:|:---------|:---------|:---------|:---------|:---------|:-------|
-| **Week 1** | [UVA 10003] Cutting Sticks | [UVA 10128] Queue | — | — | DP 入門 | [757395](https://vjudge.net/contest/757395) |
-| **Week 2** | [UVA 10721] Bar Codes | [UVA 10943] How do you add? | — | — | DP | [757396](https://vjudge.net/contest/757396) |
-| **Week 3** | [UVA 497] Strategic Defense Initiative | [UVA 11456] Trainsorting | — | — | LIS | [757397](https://vjudge.net/contest/757397) |
-| **Week 4** | [UVA 507] Jill Rides Again | [UVA 10827] Maximum sum on a torus | — | — | Max Subarray / Max 2D | [757400](https://vjudge.net/contest/757400) |
-| **Week 5** | [UVA 1213] Sum of Different Primes | [UVA 11566] Let's Yum Cha! | — | — | Knapsack | [757402](https://vjudge.net/contest/757402) |
-| **Week 6** | [UVA 147] Dollars | [UVA 11517] Exact Change | — | — | Coin Change | [757403](https://vjudge.net/contest/757403) |
-| **Week 7** | [UVA 929] Number Maze | [UVA 10449] Traffic | — | — | Shortest Paths | [759052](https://vjudge.net/contest/759052) |
-| **Week 9** | [UVA 1208] Oreon | [UVA 1235] Anti Brute Force Lock | — | — | MST | — |
-| **Week 11** | [UVA 11015] 05-2 Rendezvous | [UVA 13249] A Contest to Meet | — | — | All-Pairs Shortest Paths | [765555](https://vjudge.net/contest/765555) |
-| **Week 12** | [UVA 796] Critical Links | [UVA 10765] Doves and bombs | — | — | Bridges / Articulation Points | — |
-| **Week 13** | [UVA 1464] Traffic Real Time Query System | — | — | — | SCC | [771673](https://vjudge.net/contest/771673) |
-| **Week 14** | [UVA 11504] Dominos | [UVA 11770] Lighting Away | — | — | SCC | [773464](https://vjudge.net/contest/773464) |
-| **Week 15** | [UVA 259] Software Allocation | [UVA 10511] Councilling | — | — | Maximum Flow | [775306](https://vjudge.net/contest/775306) |
-| **Week 18** | [UVA 563] Crimewave | [UVA 820] Internet Bandwidth | [UVA 11380] Down Went The Titanic | [UVA 11506] Angry Programmer | Maximum Flow | [779364](https://vjudge.net/contest/779364) |
+| 週次 | 練習題 A | 練習題 B | 練習題 C | 練習題 D | 對應主題 |
+|:---:|:---------|:---------|:---------|:---------|:---------|
+| **Week 1** | [UVA 10003] Cutting Sticks | [UVA 10128] Queue | — | — | DP 入門 |
+| **Week 2** | [UVA 10721] Bar Codes | [UVA 10943] How do you add? | — | — | DP |
+| **Week 3** | [UVA 497] Strategic Defense Initiative | [UVA 11456] Trainsorting | — | — | — |
+| **Week 4** | [UVA 507] Jill Rides Again | [UVA 10827] Maximum sum on a torus | — | — | — |
+| **Week 5** | [UVA 1213] Sum of Different Primes | [UVA 11566] Let's Yum Cha! | — | — | — |
+| **Week 6** | [UVA 147] Dollars | [UVA 11517] Exact Change | — | — | Coin Change |
+| **Week 7** | [UVA 929] Number Maze | [UVA 10449] Traffic | — | — | Shortest Paths |
+| **Week 9** | [UVA 1208] Oreon | [UVA 1235] Anti Brute Force Lock | — | — | MST |
+| **Week 11** | [UVA 11015] 05-2 Rendezvous | [UVA 13249] A Contest to Meet | — | — | — |
+| **Week 12** | [UVA 796] Critical Links | [UVA 10765] Doves and bombs | — | — | Bridges / Articulation Points |
+| **Week 13** | [UVA 1464] Traffic Real Time Query System | — | — | — | SCC |
+| **Week 14** | [UVA 11504] Dominos | [UVA 11770] Lighting Away | — | — | SCC |
+| **Week 15** | [UVA 259] Software Allocation | [UVA 10511] Councilling | — | — | — |
+| **Week 18** | [UVA 563] Crimewave | [UVA 820] Internet Bandwidth | [UVA 11380] Down Went The Titanic | [UVA 11506] Angry Programmer | Maximum Flow |
 
 ---
 
