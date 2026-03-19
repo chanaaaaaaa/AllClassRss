@@ -120,3 +120,10 @@
 | 稀疏矩陣 | Read all records |
 
 ---
+
+## 四、參考連結
+
+- **JCLin 課程教材**：<https://drive.google.com/drive/folders/13lPJMwpFtWEhGh4vudlwQMzF_2ll4z9u>
+- **JCLin 課程錄影**：<https://drive.google.com/drive/folders/1sJyjUR70ZID9bRuErflCrVfYCJIDfnxn>
+
+---
